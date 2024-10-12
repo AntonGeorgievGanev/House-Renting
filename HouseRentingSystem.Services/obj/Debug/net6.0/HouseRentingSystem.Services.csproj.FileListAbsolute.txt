@@ -1,0 +1,12 @@
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+F:\Java programing\DevOps\tasks\github actions-exrcise\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
